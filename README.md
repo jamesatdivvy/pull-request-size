@@ -50,7 +50,7 @@ For example to mark all `.meta` files as generated, add this line to `.gitattrib
 *.meta linguist-generated=true
 ```
 
-A `.gitattributes` file uses the same rules for matching as `.gitignore` files. See [GitHub documenation](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/customizing-how-changed-files-appear-on-github) on the linguist-generated flag for more info.
+A `.gitattributes` file uses the same rules for matching as `.gitignore` files. See [GitHub documentation](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/customizing-how-changed-files-appear-on-github) on the linguist-generated flag for more info.
 
 
 ## Custom Labels
